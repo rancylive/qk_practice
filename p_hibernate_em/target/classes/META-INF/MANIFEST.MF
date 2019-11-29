@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: p_hibernate_em
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ranjanchoudhury
+Implementation-Vendor-Id: practice.quikr
+Build-Jdk: 1.8.0_212
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: practice.quikr.p_hibernate_em.App
+
