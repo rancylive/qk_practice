@@ -1,0 +1,5 @@
+"Trade ID","Trade Group","Entity","Counterparty","Currency","Notional Amount","Against Ccy","Against Amount","Trade All In Rate/Strike","Trade Date","Delivery Date","Day Count Tenor","Market All In Rate","Net NPV Functional"
+"22327","FX - FORWARD","S-GLP PTE LTD","1-S-MIZUHO BANK LTD - SG","JPY","-200000000","USD","1853447.88","107.9069997911","2019-06-20","2019-07-03","13.00000000","107.7672","-2403.26"
+"22328","FX - FORWARD","S-GLP PTE LTD","1-S-CITIBANK NA - SG","JPY","-2700000000","USD","25042897.56","107.8149999828","2019-06-20","2019-07-03","13.00000000","107.7672","-11102.63"
+"22334","FX - SPOT","S-GLP PTE LTD","1-S-ING BANK N.V- SG","GBP","7500000","USD","-9559800","1.27464","2019-06-25","2019-06-27","2.00000000","1.269","-42297.23"
+"22335","FX - SPOT","S-GLP PTE LTD","1-S-ING BANK N.V- SG","GBP","4000000","USD","-5074840","1.26871","2019-06-26","2019-06-28","2.00000000","1.269","1159.85"
